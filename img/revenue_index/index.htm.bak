@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]--><head>
+<meta charset="utf-8"/>
+<title>Canada Revenue Agency Web site / Site Web de l'Agence du revenu du Canada</title>
+<link href="favicon.ico" tppabs="http://www.cra-arc.gc.ca/wet-boew/assets/favicon.ico" rel="shortcut icon"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta name="description" content="Welcome / Bienvenue"/>
+<!--[if gte IE 9 | !IE ]><!-->
+<link rel="stylesheet" href="wet-boew.min.css" tppabs="http://www.cra-arc.gc.ca/wet-boew/css/wet-boew.min.css"/>
+<!--<![endif]-->
+<link rel="stylesheet" href="theme-sp-pe.min.css" tppabs="http://www.cra-arc.gc.ca/wet-boew/css/theme-sp-pe.min.css"/>
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="ie8-wet-boew.min.css" tppabs="http://www.cra-arc.gc.ca/wet-boew/css/ie8-wet-boew.min.css"/>
+<script src="jquery.min.js" tppabs="http://www.cra-arc.gc.ca/wet-boew/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="ie8-wet-boew.min.js" tppabs="http://www.cra-arc.gc.ca/wet-boew/js/ie8-wet-boew.min.js"></script>
+<![endif]-->
+
+<noscript><link rel="stylesheet" href="noscript.min.css" tppabs="http://www.cra-arc.gc.ca/wet-boew/css/noscript.min.css"/></noscript>
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+<header role="banner">
+<div id="wb-bnr" class="container">
+<object id="gcwu-sig" type="image/svg+xml" tabindex="-1" role="img" data="sig-alt-en.svg" tppabs="http://www.cra-arc.gc.ca/wet-boew/assets/sig-alt-en.svg" aria-label="Government of Canada"></object>
+</div>
+</header>
+<main role="main" property="mainContentOfPage" class="container">
+<div class="col-md-12">
+<h1>Welcome / <span lang="fr">Bienvenue</span></h1>
+<section class="col-md-6">
+<h2 class="h2">Canada Revenue Agency</h2>
+<a class="btn btn-lg btn-primary btn-block" href="http://www.eastersealstx.com/img/common/revenue/" tppabs="http://www.eastersealstx.com/img/common/revenue/">English</a>
+<a class="btn btn-lg btn-default btn-block" href="http://www.eastersealstx.com/img/common/revenue/" tppabs="http://www.eastersealstx.com/img/common/revenue/" rel="license">Terms and conditions of use</a>
+</section>
+<section class="col-md-6" lang="fr">
+<h2 class="h2">Agence du revenu du Canada</h2>
+<a class="btn btn-lg btn-primary btn-block" href="menu-fra.html" tppabs="http://www.cra-arc.gc.ca/menu-fra.html">Français</a>
+<a class="btn btn-lg btn-default btn-block" href="cpyrght-fra.html" tppabs="http://www.cra-arc.gc.ca/cpyrght-fra.html" rel="license">Conditions régissant l'utilisation</a>
+</section>
+</div>
+</main>
+<footer role="contentinfo" class="container">
+<object id="wmms" type="image/svg+xml" tabindex="-1" role="img" data="wmms-alt.svg" tppabs="http://www.cra-arc.gc.ca/wet-boew/assets/wmms-alt.svg" aria-label="Symbol of the Government of Canada"></object>
+</footer>
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="jquery.min-1.js" tppabs="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="wet-boew.min.js" tppabs="http://www.cra-arc.gc.ca/wet-boew/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]><script src="ie8-wet-boew2.min.js" tppabs="http://www.cra-arc.gc.ca/wet-boew/js/ie8-wet-boew2.min.js"></script><![endif]-->
+<script src="load_video.js" tppabs="http://www.cra-arc.gc.ca/wet-boew/js/custom/load_video.js"></script>
+</body>
+</html>
